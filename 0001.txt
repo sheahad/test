@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-nilima
-=======
 sheahad
 alif
->>>>>>> 45826a760da373d75bebc0775f345246c24dd0a1
+
 
